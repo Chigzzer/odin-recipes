@@ -1,7 +1,15 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .banner{
-    background-color: red;
     margin: 5px;
     text-align: center;
+    background-image: url("banner.jpg");
+    padding: 10px;
+    color: yellow;
+    text-transform: capitalize;
+    font-weight: 900;
 }
 
 #main{
@@ -28,7 +36,7 @@ img.food{
     border-radius: 20%;
 }
 .ing{
-    font-size: medium;
+    font-size: 20px;
     margin: 20px;
 }
 h2{
